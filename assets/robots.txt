@@ -1,0 +1,8 @@
+# public/robots.txt
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /node_modules/
+
+Sitemap: https://yourdomain.com/sitemap.xml
